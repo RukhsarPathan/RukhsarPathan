@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RukhsarPathan
 - 👀 I’m interested in building new projects, and learn programming skills
-- 🌱 I’m currently learning html,css and Javascript via Udemy.
+- 🌱 I’m a Software Engineering student.
 - 💞️ I’m looking to collaborate on html, css and JavaScript
 - 😄 Pronouns: RookH-saar
 - ⚡ Fun fact: Scared of butterflies, and loves rain 
