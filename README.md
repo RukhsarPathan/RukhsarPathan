@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RukhsarPathan
-- 👀 I’m interested in building new projects, and learn programming skills
-- 🌱 I’m a Software Engineering student.
+- 👀 I love to create visually appealing projects.
+- 🌱 I’m a Software Engineering student at WGU.
 - 💞️ I’m looking to collaborate on html, css and JavaScript
 - 😄 Pronouns: RookH-saar
-- ⚡ Fun fact: Scared of butterflies, and loves rain 
+- ⚡ Fun fact: Fun fact: A fear of butterflies and a love for rain
 
 <!---
 RukhsarPathan/RukhsarPathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
