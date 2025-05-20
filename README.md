@@ -25,7 +25,7 @@ I’d love to contribute my skills, learn from innovative teams, and continue gr
 
 Connect with me in LinkedIn
 [LinkedIn](https://linkedin.com/in/rukhsarpathan7)
-📫 Email: [rukhsar@email.com](mailto:rukhsar@email.com)
+📫 Email: [solutionszilla@gmail.com](mailto:solutionszilla@gmail.com)
 <!---
 RukhsarPathan/RukhsarPathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
