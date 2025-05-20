@@ -1,13 +1,31 @@
-I’m a Software Engineering student at WGU with expected graduation in Dec-2025, with a passion for UI-focused frontend development, where design meets code to create seamless, user-friendly experiences.
+👩‍💻 **About Me**
 
-With expertise in HTML, CSS and UX/UI principles. Currently diving into JavaScript, React. I enjoy building intuitive, visually engaging interfaces that prioritize both aesthetics and functionality. I also have hands-on experience with Python, Git, GitHub, GitLab, and AWS Cloud, ensuring my solutions are scalable, efficient, and well-managed.
+I’m a Software Engineering student at WGU, passionate about UI-focused frontend development — where design meets code to create seamless, user-friendly experiences.
 
-Beyond my technical skills, I bring 8+ years of experience in customer-centric roles within financial services, allowing me to deeply understand user needs, problem-solving, and business impact.
+✨ With expertise in HTML, CSS, and UX/UI principles, I’m currently diving into JavaScript and React, enjoying the process of building intuitive, visually engaging interfaces that balance aesthetics and functionality.
 
-🚀 Currently seeking fully remote internships for Summer 2025 in Frontend Development, Software Engineering, or UI Engineering, where I can contribute my skills, collaborate with innovative teams, and refine my expertise. My expected graduation date is in Dec-2025! 
+🛠️ **Technical Skills**
+	•	Frontend: HTML5, CSS3, JavaScript (in progress), React (learning)
+	•	Tools: Git, GitHub, GitLab, VS Code
+	•	Backend Basics: Python
+	•	Cloud: AWS (foundational knowledge)
 
+🌍 **Soft Skills & Background**
+With 8+ years in customer-centric roles in financial services, I bring strong user empathy, clear communication, and real-world business insight to every project I build.🚀 What I’m Looking For
 
+🚀 **What I’m Looking For**
+I’m currently seeking fully remote internships for Summer 2025 in:
+	•	Frontend Development
+	•	Software Engineering
+	•	UI Engineering
+
+I’d love to contribute my skills, learn from innovative teams, and continue growing as a creative technologist.
+
+🎓 **Expected Graduation**: Dec 2025
+
+Connect with me in LinkedIn
 [LinkedIn](https://linkedin.com/in/rukhsarpathan7)
+📫 Email: [rukhsar@email.com](mailto:rukhsar@email.com)
 <!---
 RukhsarPathan/RukhsarPathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
