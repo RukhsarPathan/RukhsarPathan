@@ -14,10 +14,11 @@ I’m a Software Engineering student at WGU and a UI-focused frontend developer 
 
 
 🛠️ **Technical Skills**
-	•	Frontend: HTML5, CSS3, JavaScript (in progress), React (learning)
+	•	Frontend: HTML5, CSS3, JavaScript, React (learning)
 	•	Tools: Git, GitHub, GitLab, VS Code
 	•	Backend Basics: Python
 	•	Cloud: AWS (foundational knowledge)
+ 
 
 🌍 **Soft Skills & Background**
 With 8+ years in customer-centric roles in financial services, I bring strong user empathy, clear communication, and real-world business insight to every project I build.🚀 What I’m Looking For
