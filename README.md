@@ -4,7 +4,8 @@ I’m a Software Engineering student at WGU and a UI-focused frontend developer 
 
 ✨ With expertise in HTML, CSS, Javascript and UX/UI principles, I’m currently diving into React, enjoying the process of building intuitive, visually engaging interfaces that balance aesthetics and functionality.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RukhsarPathan&show_icons=true&theme=radical)
+![Zee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RukhsarPathan&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RukhsarPathan&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RukhsarPathan&theme=radical)](https://git.io/streak-stats)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
