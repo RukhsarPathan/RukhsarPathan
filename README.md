@@ -14,7 +14,7 @@ I’m a Software Engineering student at WGU and a UI-focused frontend developer 
 
 
 🛠️ **Technical Skills**
-	•	Frontend: HTML5, CSS3, JavaScript, React (learning)
+	•	Frontend: HTML5, CSS3, JavaScript, React 
 	•	Tools: Git, GitHub, GitLab, VS Code
 	•	Backend Basics: Python
 	•	Cloud: AWS (foundational knowledge)
@@ -24,7 +24,7 @@ I’m a Software Engineering student at WGU and a UI-focused frontend developer 
 With 8+ years in customer-centric roles in financial services, I bring strong user empathy, clear communication, and real-world business insight to every project I build.🚀 What I’m Looking For
 
 🚀 **What I’m Looking For**
-I’m currently seeking fully remote internships for Summer 2025 in:
+I’m currently interning as a Software Engineer at @Meeedly, and open to full-time opportunities in fall 2025. 
 	•	Frontend Development
 	•	Software Engineering
 	•	UI Engineering
