@@ -8,16 +8,24 @@ I’m a Software Engineering student at WGU and a UI-focused frontend developer 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RukhsarPathan&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=RukhsarPathan&theme=radical)](https://git.io/streak-stats)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 🛠️ Tech Stack  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 
 🛠️ **Technical Skills**
 	•	Frontend: HTML5, CSS3, JavaScript, React 
 	•	Tools: Git, GitHub, GitLab, VS Code
 	•	Backend Basics: Python
-	•	Cloud: AWS (foundational knowledge)
+	•	Cloud: AWS (AWS Cloud Practitioner Certified)
+    •	CompTIA A+ and ITIL 4 Foundation Certified
+
  
 
 🌍 **Soft Skills & Background**
@@ -33,7 +41,7 @@ I’d love to contribute my skills, learn from innovative teams, and continue gr
 
 🎓 **Expected Graduation**: Dec 2025
 
-Connect with me in LinkedIn
+Connect with me on LinkedIn
 [LinkedIn](https://linkedin.com/in/rukhsarpathan7)
 📫 Email: [solutionszilla@gmail.com](mailto:solutionszilla@gmail.com)
 <!---
