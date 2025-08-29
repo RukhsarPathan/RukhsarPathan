@@ -1,8 +1,10 @@
 👩‍💻 **About Me**
 
-I’m a Software Engineering student at WGU and a UI-focused frontend developer turning designs into intuitive, beautiful interfaces.
+🎨 UI-Focused Frontend Developer | 🚀 SWE Intern @Meeedly  | 💻 Software Engineering Student @WGU
 
-✨ With expertise in HTML, CSS, Javascript and UX/UI principles, I’m currently diving into React, enjoying the process of building intuitive, visually engaging interfaces that balance aesthetics and functionality.
+I’m passionate about turning designs into intuitive, beautiful interfaces that blend creativity with clean engineering. Currently, I’m pursuing my B.S. in Software Engineering at WGU while interning at Meeedly — the largest enterprise B2B meeting-scheduling platform, trusted in over 68 countries.
+
+With expertise in HTML, CSS, JavaScript, React, and UX/UI principles, I build modern, visually engaging interfaces that balance aesthetics and functionality.
 
 ![Zee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RukhsarPathan&show_icons=true&theme=radical)
 
