@@ -1,82 +1,91 @@
-👩‍💻 **About Me**
-#HEADING1
+# 👩‍💻 About Me
 
-IT Support & Systems Professional | Software Engineering Background | CompTIA Certified
+## IT Support & Systems Professional  
+### Software Engineering Background | CompTIA Certified
 
-I’m an Information Technology professional with a strong software engineering background and a passion for helping users navigate technology effectively. I’m currently completing my Bachelor of Science in Information Technology at WGU and recently completed a remote technical internship at Meeedly, a global enterprise B2B platform used across multiple countries.
+I’m an Information Technology professional with a strong software engineering background and a passion for helping users navigate technology effectively. I’m currently completing my **Bachelor of Science in Information Technology (BSIT)** at WGU and recently completed a remote technical internship at **Meeedly**, a global enterprise B2B platform used across multiple countries.
 
-My background spans IT support fundamentals, networking concepts, cloud fundamentals, and IT service management, complemented by hands-on experience with web technologies. This combination allows me to communicate effectively between users, technical teams, and systems — identifying issues, documenting clearly, and escalating appropriately.
+My background spans **IT support fundamentals, networking concepts, cloud fundamentals, and IT service management**, complemented by hands-on experience with web technologies. This combination allows me to communicate effectively between users, technical teams, and systems — identifying issues, documenting clearly, and escalating appropriately.
 
-I bring over 8 years of customer-facing experience in financial services, which has strengthened my troubleshooting mindset, user empathy, and ability to resolve issues efficiently in fast-paced, remote environments.
+I bring over **8 years of customer-facing experience in financial services**, strengthening my troubleshooting mindset, user empathy, and ability to resolve issues efficiently in fast-paced, remote environments.
+
+---
+
+## 📊 GitHub Activity
 
 ![Zee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RukhsarPathan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RukhsarPathan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RukhsarPathan&layout=compact&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=RukhsarPathan&theme=radical)](https://git.io/streak-stats)
 
-### 🛠️ Tech Stack  
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+## 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🛠️ Core Skills
+---
 
-IT Support & Troubleshooting: User access issues, application navigation, documentation, escalation
+## 🧠 Core Skills
 
-Networking & Systems: TCP/IP fundamentals, Windows & Linux OS concepts, connectivity basics
+### IT Support & Troubleshooting
+- User access issues, application navigation, documentation, escalation
 
-Cloud & IT Frameworks: AWS Cloud fundamentals, ITIL® 4 Service Management
+### Networking & Systems
+- TCP/IP fundamentals, Windows & Linux OS concepts, connectivity basics
 
-Technical Tools: GitHub, GitLab, Git Bash, Linux
+### Cloud & IT Frameworks
+- AWS Cloud fundamentals, ITIL® 4 Service Management
 
-Web & UI Literacy: HTML, CSS, JavaScript (used to support user-facing systems and interfaces)
+### Technical Tools
+- GitHub, GitLab, Git Bash, Linux
 
-📜 Certifications
+### Web & UI Literacy
+- HTML, CSS, JavaScript (used to support user-facing systems and interfaces)
 
-CompTIA A+
+---
 
-CompTIA Network+
+## 📜 Certifications
 
-AWS Certified Cloud Practitioner
+- CompTIA A+  
+- CompTIA Network+  
+- AWS Certified Cloud Practitioner  
+- ITIL® 4 Foundation  
+- CompTIA Security+ *(In Progress)*  
 
-ITIL® 4 Foundation
+---
 
-CompTIA Security+ (In Progress)
+## 🚀 What I’m Looking For
 
- 
+I’m seeking **remote, entry-to-mid level IT roles** where I can apply my certifications, technical foundation, and support experience, including:
 
-🚀 What I’m Looking For
+- IT Support Specialist  
+- Technical Support Analyst  
+- Network or NOC Support (Junior)  
+- Systems or Application Support  
 
-I’m seeking remote, entry-to-mid level IT roles where I can apply my certifications, technical foundation, and support experience, including:
+I value roles that emphasize **learning, documentation, collaboration, and service reliability**.
 
-IT Support Specialist
+---
 
-Technical Support Analyst
+## 🎓 Education
 
-Network or NOC Support (Junior)
+**Bachelor of Science in Information Technology (BSIT)**  
+Western Governors University — *Expected Graduation: Jan 2026*
 
-Systems or Application Support
+---
 
-I value roles that emphasize learning, documentation, collaboration, and service reliability.
+## 🔗 Connect
 
+- LinkedIn: https://linkedin.com/in/rukhsarpathan7  
+- Email: solutionszilla@gmail.com  
 
-
-🎓 Education
-
-B.S. in Information Technology (BSIT)
-Western Governors University — Expected Graduation: Jan 2026
-
-🔗 Connect
-
-Connect with me on LinkedIn
-[LinkedIn](https://linkedin.com/in/rukhsarpathan7)
-📫 Email: [solutionszilla@gmail.com](mailto:solutionszilla@gmail.com)
-<!---
-RukhsarPathan/RukhsarPathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+RukhsarPathan/RukhsarPathan is a special repository because its README.md appears on your GitHub profile.
+-->
