@@ -1,11 +1,13 @@
 👩‍💻 **About Me**
 #HEADING1
 
-🎨 UI-Focused Frontend Developer | 🚀 SWE Intern @Meeedly  | 💻 Software Engineering Student @WGU
+IT Support & Systems Professional | Software Engineering Background | CompTIA Certified
 
-I’m passionate about turning designs into intuitive, beautiful interfaces that blend creativity with clean engineering. Currently, I’m pursuing my B.S. in Software Engineering at WGU while interning at Meeedly — the largest enterprise B2B meeting-scheduling platform, trusted in over 68 countries.
+I’m an Information Technology professional with a strong software engineering background and a passion for helping users navigate technology effectively. I’m currently completing my Bachelor of Science in Information Technology at WGU and recently completed a remote technical internship at Meeedly, a global enterprise B2B platform used across multiple countries.
 
-With expertise in HTML, CSS, JavaScript, React, and UX/UI principles, I build modern, visually engaging interfaces that balance aesthetics and functionality.
+My background spans IT support fundamentals, networking concepts, cloud fundamentals, and IT service management, complemented by hands-on experience with web technologies. This combination allows me to communicate effectively between users, technical teams, and systems — identifying issues, documenting clearly, and escalating appropriately.
+
+I bring over 8 years of customer-facing experience in financial services, which has strengthened my troubleshooting mindset, user empathy, and ability to resolve issues efficiently in fast-paced, remote environments.
 
 ![Zee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RukhsarPathan&show_icons=true&theme=radical)
 
@@ -22,27 +24,54 @@ With expertise in HTML, CSS, JavaScript, React, and UX/UI principles, I build mo
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 
-🛠️ **Technical Skills**
-	•	Frontend: HTML5, CSS3, JavaScript, React 
-	•	Tools: Git, GitHub, GitLab, VS Code
-	•	Backend Basics: Python
-	•	Cloud: AWS (AWS Cloud Practitioner Certified)
-    •	CompTIA A+ and ITIL 4 Foundation Certified
+🛠️ Core Skills
+
+IT Support & Troubleshooting: User access issues, application navigation, documentation, escalation
+
+Networking & Systems: TCP/IP fundamentals, Windows & Linux OS concepts, connectivity basics
+
+Cloud & IT Frameworks: AWS Cloud fundamentals, ITIL® 4 Service Management
+
+Technical Tools: GitHub, GitLab, Git Bash, Linux
+
+Web & UI Literacy: HTML, CSS, JavaScript (used to support user-facing systems and interfaces)
+
+📜 Certifications
+
+CompTIA A+
+
+CompTIA Network+
+
+AWS Certified Cloud Practitioner
+
+ITIL® 4 Foundation
+
+CompTIA Security+ (In Progress)
 
  
 
-🌍 **Soft Skills & Background**
-With 8+ years in customer-centric roles in financial services, I bring strong user empathy, clear communication, and real-world business insight to every project I build.🚀 What I’m Looking For
+🚀 What I’m Looking For
 
-🚀 **What I’m Looking For**
-I’m currently interning as a Software Engineer at @Meeedly, and open to full-time opportunities in fall 2025. 
-	•	Frontend Development
-	•	Software Engineering
-	•	UI Engineering
+I’m seeking remote, entry-to-mid level IT roles where I can apply my certifications, technical foundation, and support experience, including:
 
-I’d love to contribute my skills, learn from innovative teams, and continue growing as a creative technologist.
+IT Support Specialist
 
-🎓 **Expected Graduation**: Dec 2025
+Technical Support Analyst
+
+Network or NOC Support (Junior)
+
+Systems or Application Support
+
+I value roles that emphasize learning, documentation, collaboration, and service reliability.
+
+
+
+🎓 Education
+
+B.S. in Information Technology (BSIT)
+Western Governors University — Expected Graduation: Jan 2026
+
+🔗 Connect
 
 Connect with me on LinkedIn
 [LinkedIn](https://linkedin.com/in/rukhsarpathan7)
