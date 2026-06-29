@@ -1,7 +1,7 @@
 # 👩‍💻 About Me
 
 ## IT Support & Systems Professional  
-### Software Engineering Background | CompTIA Certified
+###  | CompTIA Certified
 
 I’m an Information Technology professional with a strong software engineering background and a passion for helping users navigate technology effectively. I’m currently completing my **Bachelor of Science in Information Technology (BSIT)** at WGU and recently completed a remote technical internship at **Meeedly**, a global enterprise B2B platform used across multiple countries.
 
