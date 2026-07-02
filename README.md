@@ -1,91 +1,32 @@
-# 👩‍💻 About Me
+<h1 align="center">Hi 👋, I'm Rukhsar Pathan</h1>
+<h3 align="center">IT Support & Cybersecurity Professional | Building Home SOC Labs | B.S. Information Technology</h3>
 
-## IT Support & Systems Professional  
-###  | CompTIA Certified
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukhsarpathan&label=Profile%20views&color=0e75b6&style=flat" alt="rukhsarpathan" /> </p>
 
-I’m an Information Technology professional with a strong software engineering background and a passion for helping users navigate technology effectively. I’m currently completing my **Bachelor of Science in Information Technology (BSIT)** at WGU and recently completed a remote technical internship at **Meeedly**, a global enterprise B2B platform used across multiple countries.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukhsarpathan" alt="rukhsarpathan" /></a> </p>
 
-My background spans **IT support fundamentals, networking concepts, cloud fundamentals, and IT service management**, complemented by hands-on experience with web technologies. This combination allows me to communicate effectively between users, technical teams, and systems — identifying issues, documenting clearly, and escalating appropriately.
+- 🔭 I’m currently working on [Home SOC Lab (Splunk Enterprise, Windows 11, Kali Linux & VirtualBox)](https://github.com/RukhsarPathan/SOC-Lab)
 
-I bring over **8 years of customer-facing experience in financial services**, strengthening my troubleshooting mindset, user empathy, and ability to resolve issues efficiently in fast-paced, remote environments.
+- 👯 I’m lookingOpen-source cybersecurity, SIEM, detection engineering, and IT support projects to collaborate on [https://github.com/RukhsarPathan](https://github.com/RukhsarPathan)
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/RukhsarPathan](https://github.com/RukhsarPathan)
 
-## 📊 GitHub Activity
+- 📝 I regularly write articles on [https://medium.com/@RukhsarPathan7](https://medium.com/@RukhsarPathan7)
 
-![Zee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RukhsarPathan&show_icons=true&theme=radical)
+- 📫 How to reach me **https://www.linkedin.com/in/rukhsarpathan7/**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RukhsarPathan&layout=compact&theme=radical)
+- ⚡ Fun fact **🚀 Learning in public through hands-on labs, technical projects, and continuous experimentation in IT support and cybersecurity.**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RukhsarPathan&theme=radical)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rukhsarpathan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rukhsarpathan7" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukhsarpathan&show_icons=true&locale=en&layout=compact" alt="rukhsarpathan" /></p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukhsarpathan&show_icons=true&locale=en" alt="rukhsarpathan" /></p>
 
----
-
-## 🧠 Core Skills
-
-### IT Support & Troubleshooting
-- User access issues, application navigation, documentation, escalation
-
-### Networking & Systems
-- TCP/IP fundamentals, Windows & Linux OS concepts, connectivity basics
-
-### Cloud & IT Frameworks
-- AWS Cloud fundamentals, ITIL® 4 Service Management
-
-### Technical Tools
-- GitHub, GitLab, Git Bash, Linux
-
-### Web & UI Literacy
-- HTML, CSS, JavaScript (used to support user-facing systems and interfaces)
-
----
-
-## 📜 Certifications
-
-- CompTIA A+  
-- CompTIA Network+  
-- AWS Certified Cloud Practitioner  
-- ITIL® 4 Foundation  
-- CompTIA Security+ *(In Progress)*  
-
----
-
-## 🚀 What I’m Looking For
-
-I’m seeking **remote, entry-to-mid level IT roles** where I can apply my certifications, technical foundation, and support experience, including:
-
-- IT Support Specialist  
-- Technical Support Analyst  
-- Network or NOC Support (Junior)  
-- Systems or Application Support  
-
-I value roles that emphasize **learning, documentation, collaboration, and service reliability**.
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Information Technology (BSIT)**  
-Western Governors University — *Expected Graduation: Jan 2026*
-
----
-
-## 🔗 Connect
-
-- LinkedIn: https://linkedin.com/in/rukhsarpathan7  
-- Email: solutionszilla@gmail.com  
-
-<!--
-RukhsarPathan/RukhsarPathan is a special repository because its README.md appears on your GitHub profile.
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukhsarpathan&" alt="rukhsarpathan" /></p>
