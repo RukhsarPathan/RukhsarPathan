@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rukhsar Pathan</h1>
-<h3 align="center">IT Support & Cybersecurity Professional | Building Home SOC Labs | B.S. Information Technology</h3>
 
 <h1 align="center">Hi 👋, I'm Rukhsar Pathan</h1>
 
@@ -14,7 +12,6 @@ Building Hands-On Home SOC Labs | B.S. Information Technology
 
 ---
 
-# 👋 Welcome!
 
 I'm **Rukhsar**, an IT Support and Cybersecurity professional with **8+ years of experience supporting customers in a Fortune 500 enterprise environment**.
 
