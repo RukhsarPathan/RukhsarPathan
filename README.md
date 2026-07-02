@@ -234,9 +234,3 @@ https://github.com/RukhsarPathan/SOC-Lab
 > *"Learning in public. Building in public. Growing one lab at a time."* 🚀
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rukhsarpathan&show_icons=true&locale=en&layout=compact" alt="rukhsarpathan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rukhsarpathan&show_icons=true&locale=en" alt="rukhsarpathan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rukhsarpathan&" alt="rukhsarpathan" /></p>
