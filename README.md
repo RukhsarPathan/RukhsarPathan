@@ -150,6 +150,7 @@ https://github.com/RukhsarPathan/SOC-Lab
 <a href="https://linkedin.com/in/rukhsarpathan7">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
+<br>
 
 <a href="https://medium.com/@RukhsarPathan7">
 <img src="https://cdn.simpleicons.org/medium/ffffff" width="40"/>
@@ -236,17 +237,7 @@ https://github.com/RukhsarPathan/SOC-Lab
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rukhsarpathan" alt="rukhsarpathan" /></a> </p>
 
-- 🔭 I’m currently working on [Home SOC Lab (Splunk Enterprise, Windows 11, Kali Linux & VirtualBox)](https://github.com/RukhsarPathan/SOC-Lab)
 
-- 👯 I’m lookingOpen-source cybersecurity, SIEM, detection engineering, and IT support projects to collaborate on [https://github.com/RukhsarPathan](https://github.com/RukhsarPathan)
-
-- 👨‍💻 All of my projects are available at [https://github.com/RukhsarPathan](https://github.com/RukhsarPathan)
-
-- 📝 I regularly write articles on [https://medium.com/@RukhsarPathan7](https://medium.com/@RukhsarPathan7)
-
-- 📫 How to reach me **https://www.linkedin.com/in/rukhsarpathan7/**
-
-- ⚡ Fun fact **🚀 Learning in public through hands-on labs, technical projects, and continuous experimentation in IT support and cybersecurity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
